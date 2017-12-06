@@ -493,10 +493,12 @@ body {
 
 .pplogo {
     align-items: center;
-    height: auto;
     display: inline-flex;
+    height: auto;
     justify-content: center;
     margin: 0;
+    max-width: 100%;
+    width: auto;
 }
 
 .nav {
